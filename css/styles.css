@@ -1,0 +1,25 @@
+h1 {
+  text-align: center;
+  font-family: "Sail", cursive;
+  font-size: 54px;
+}
+h2 {
+  font-family: "Josefin Slab", serif;
+}
+h3 {
+  text-align: center;
+  font-family: "Josefin Slab", serif;
+}
+p {
+  text-align: center;
+  font-family: "Josefin Slab", serif;
+  font-size: 28px;
+}
+.logo {
+  max-width: 180px;
+  display: block;
+  margin: 0 auto;
+}
+.pastry-pic {
+  max-width: 300px;
+}
